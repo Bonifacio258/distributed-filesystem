@@ -1,0 +1,34 @@
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Backup files
+*~
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment files
+.env
+*.env
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Tkinter output or cache (caso salve imagens, logs etc)
+*.png
+*.jpg
+*.gif
+
+# Arquivos pessoais
+*.db
+*.sqlite
